@@ -1,1 +1,2 @@
 print("Godbye")
+print("Bye is farewell for friends")
